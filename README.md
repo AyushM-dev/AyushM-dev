@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushM-dev
+- 👋 Hi, I’m Ayush Maltare
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on DevOps and API related issues
